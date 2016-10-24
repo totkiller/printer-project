@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    
+    <folder name="Menu">
+        <file name="File_hidden"/>
+        <file name="Edit_hidden"/>
+        <file name="GoTo_hidden"/>
+        <file name="Help_hidden"/>
+        <file name="Tools_hidden"/>
+        <file name="View_hidden"/>
+        <file name="Window_hidden"/>
+        <folder name="Configuração"/>
+    </folder>
+   
+        
+       
+    <folder name="Toolbars">
+        <file name="Clipboard_hidden"/>
+        <file name="File_hidden"/>
+        <file name="Imagem_hidden"/>
+        <file name="Memory_hidden"/>
+        <file name="Standard.xml_hidden"/>
+        <file name="UndoRedo_hidden"/>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="NovaPaginaTopComponent.settings" url="NovaPaginaTopComponentSettings.xml"/>
+        </folder>
+        <file name="WindowManager.wswmgr" url="WindowManager.wswmgr"/>
+    </folder>
+</filesystem>
